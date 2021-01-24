@@ -2,4 +2,4 @@
 # Leo VIDAL / Moussa OUDJAMA
 # 4 MOC
 
-![LCD](master/image/LCD_image.jpg)
+![LCD](image/LCD_image.jpg)
